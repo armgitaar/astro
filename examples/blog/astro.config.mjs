@@ -9,6 +9,6 @@ export default defineConfig({
   adapter: node({
     mode: 'standalone'
   }),
-	site: 'https://example.com',
-	integrations: [mdx(), sitemap()],
+
+
 });
